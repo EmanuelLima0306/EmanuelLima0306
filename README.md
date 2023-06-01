@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40"/>
 <div>
 <a href="https://github.com/EmanuelLima0306">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmanuelLima0306&layout=compact&langs_count=7&theme=dracula"/>
