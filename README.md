@@ -21,5 +21,5 @@ Here are some ideas to get you started:
 <img heighy="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmanuelLima0306&exclude_repo=github-readme-stats,EmanuelLima0306.github.io"> 
 <img heighy="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmanuelLima0306&layout=pie"> 
 <img heighy="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=EmanuelLima0306">   
-<img heighy="180em" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">   
+ <img heighy="180em" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">   
 </div>
