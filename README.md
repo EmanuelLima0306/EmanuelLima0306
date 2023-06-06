@@ -12,8 +12,8 @@ Bem-vindo ao meu perfil do GitHub! Sou um desenvolvedor apaixonado por tecnologi
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmanuelLima0306&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EmanuelLima0306&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmanuelLima0306&exclude_repo=github-readme-stats,EmanuelLima0306.github.io"> 
-<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmanuelLima0306&layout=pie"> 
-<img height="200em" src="https://github-readme-stats.vercel.app/api/wakatime?username=EmanuelLima0306">   
+<img height="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmanuelLima0306&layout=pie"> 
+<img height="500em" src="https://github-readme-stats.vercel.app/api/wakatime?username=EmanuelLima0306">   
  <br>   
 </div>
 
@@ -25,18 +25,18 @@ Minha paixão por tecnologia vai além do trabalho, estendendo-se a projetos pes
 
 ## Tecnologias e Ferramentas 🛠️
  <img heighy="180em" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"><img heighy="180em" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
- <img heighy="180em" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
- <img heighy="180em" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
- <img heighy="180em" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
- <img heighy="180em" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
- <img heighy="180em" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
- <img heighy="180em" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
- <img heighy="180em" src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white">
- <img heighy="180em" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
- <img heighy="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
- <img heighy="180em" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
- <img heighy="180em" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
- <img heighy="180em" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
+ <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
+ <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
+ <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
+ <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
+ <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+ <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+ <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white">
+ <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+ <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
+ <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+ <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+ <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
  
 
 Ao longo de minha carreira, trabalhei e estudei uma variedade de tecnologias e ferramentas, incluindo:
