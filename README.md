@@ -44,7 +44,7 @@ Ao longo de minha carreira, trabalhei e estudei uma variedade de tecnologias e f
 - Linguagens de programação: JavaScript, Dart, HTML, CSS, Python
 - Frameworks e bibliotecas: Flutter, JavaFX, JSP, Java Swing, Spring Boot, Hibernate, JPA, Bootstrap 5, jQuery
 - Bancos de dados: MySQL, PostgreSQL, SQLite
-- Ferramentas e tecnologias adicionais: NetBeans, Visual Studio Code, Spring Tools, Visual Studio
+- Ferramentas e tecnologias adicionais: NetBeans, Visual Studio Code, Spring Tools, Visual Studio, Figma
 
 ## Entre em Contato 📫
 
