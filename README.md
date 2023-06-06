@@ -14,8 +14,7 @@ Bem-vindo ao meu perfil do GitHub! Sou um desenvolvedor apaixonado por tecnologi
 <img heighy="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmanuelLima0306&exclude_repo=github-readme-stats,EmanuelLima0306.github.io"> 
 <img heighy="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmanuelLima0306&layout=pie"> 
 <img heighy="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=EmanuelLima0306">   
- <br>
- <img heighy="180em" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">   
+ <br>   
 </div>
 
 ## Sobre Mim ✨
@@ -25,58 +24,20 @@ Com uma sólida formação em Tecnologia da Informação e anos de experiência 
 Minha paixão por tecnologia vai além do trabalho, estendendo-se a projetos pessoais de aprendizado e pesquisa contínua. Sempre busco expandir meus conhecimentos em desenvolvimentos mobile, web, desktop.
 
 ## Tecnologias e Ferramentas 🛠️
+ <img heighy="180em" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
 
 Ao longo de minha carreira, trabalhei e estudei uma variedade de tecnologias e ferramentas, incluindo:
 
-- Linguagens de programação: Java Swing, JavaFX, JSP, JavaScript, Python, .
-- Frameworks e bibliotecas: [lista de frameworks, como React, Django, TensorFlow, etc.]
-- Bancos de dados: [lista de bancos de dados, como MySQL, MongoDB, etc.]
-- Ferramentas e tecnologias adicionais: [lista de outras ferramentas e tecnologias relevantes, como Git, Docker, AWS, etc.]
+- Linguagens de programação: JavaScript, Dart, HTML, CSS, Python
+- Frameworks e bibliotecas: Flutter, JavaFX, JSP, Java Swing, Spring Boot, Hibernate, JPA, Bootstrap 5, jQuery
+- Bancos de dados: MySQL, PostgreSQL, SQLite
+- Ferramentas e tecnologias adicionais: NetBeans, Visual Studio Code, Spring Tools, Visual Studio
 
 ## Entre em Contato 📫
 
 Se você quiser discutir tecnologia, colaborar em projetos ou trocar ideias, não hesite em entrar em contato. Você pode me encontrar em:
 
-- Email: [seu endereço de email]
-- LinkedIn: [seu perfil do LinkedIn]
+- Email: emanuellima.lnb@gmail.com
+- LinkedIn: https://www.linkedin.com/in/emanuel-lima-0ab052249/
 
 Estou entusiasmado para fazer parte da comunidade e contribuir para o avanço da tecnologia!
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-### Hi there 👋
-
-<!--
-**EmanuelLima0306/EmanuelLima0306** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
