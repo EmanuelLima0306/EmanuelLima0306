@@ -51,6 +51,7 @@ Ao longo de minha carreira, trabalhei e estudei uma variedade de tecnologias e f
 
 Se você quiser discutir tecnologia, colaborar em projetos ou trocar ideias, não hesite em entrar em contato. Você pode me encontrar em:
 
+ [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@example.com)
 - Email: emanuellima.lnb@gmail.com
 - LinkedIn: https://www.linkedin.com/in/emanuel-lima-0ab052249/
 
