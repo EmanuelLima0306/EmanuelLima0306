@@ -24,8 +24,7 @@ Com uma sólida formação em Tecnologia da Informação e anos de experiência 
 Minha paixão por tecnologia vai além do trabalho, estendendo-se a projetos pessoais de aprendizado e pesquisa contínua. Sempre busco expandir meus conhecimentos em desenvolvimentos mobile, web, desktop.
 
 ## Tecnologias e Ferramentas 🛠️
- <img heighy="180em" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
-<img heighy="180em" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+ <img heighy="180em" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"><img heighy="180em" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
  <img heighy="180em" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
  <img heighy="180em" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
  <img heighy="180em" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
