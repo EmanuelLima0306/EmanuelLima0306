@@ -7,6 +7,8 @@ Bem-vindo ao meu perfil do GitHub! Sou um desenvolvedor apaixonado por tecnologi
 
 ## Visão Geral dos Projetos 🚀
 
+[I (Typing SVG](https://readme-typing-svg.herokuapp.com/I
+color=ff91a4&size=35&center-true&vcenter-true&width=1000811nes«HELLO, +MY+NAME+1s+Caroline+Barbosa;I'm+25+years+old;I+from+Brazil;I+Graduated+systems+Development;Be+welc ome!+:%29)](https://git.io/typing-svg)
 <div>
 <a href="https://github.com/EmanuelLima0306">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmanuelLima0306&layout=compact&langs_count=7&theme=dracula"/>
