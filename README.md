@@ -53,5 +53,6 @@ Se você quiser discutir tecnologia, colaborar em projetos ou trocar ideias, nã
 
  [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emanuellima.lnb@gmail.com)
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emanuel-lima-0ab052249/)
+ [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/qr/KXAWOACXYW7HE1)
 
 Estou entusiasmado para fazer parte da comunidade e contribuir para o avanço da tecnologia!
