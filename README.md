@@ -12,7 +12,7 @@ Bem-vindo ao meu perfil do GitHub! Sou um desenvolvedor apaixonado por tecnologi
 <a href="https://github.com/EmanuelLima0306">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmanuelLima0306&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EmanuelLima0306&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<img width="285em" height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmanuelLima0306&exclude_repo=github-readme-stats,EmanuelLima0306.github.io"> 
+<img width="290em" height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmanuelLima0306&exclude_repo=github-readme-stats,EmanuelLima0306.github.io"> 
 <img height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmanuelLima0306&layout=pie"> 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=EmanuelLima0306">   
  <br>   
